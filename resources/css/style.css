@@ -7,3 +7,18 @@ h1 {
   color: purple;
   font-size: 70px;
 }
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.minorbanner h2 {
+  colort: blue;
+  font-weight: bold;
+}
