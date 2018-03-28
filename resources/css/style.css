@@ -2,3 +2,8 @@
 font-family: Helvetica;
 text-align: center;
 }
+
+h1 {
+  color: purple;
+  font-size: 70px;
+}
